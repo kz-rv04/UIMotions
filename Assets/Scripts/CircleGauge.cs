@@ -12,7 +12,7 @@ public class CircleGauge : MonoBehaviour {
     private float fillSpeed;
     [SerializeField]
     private bool Loop;
-    private int MoveCount;
+    private uint MoveCount;
 
     // Use this for initialization
     void Start () {

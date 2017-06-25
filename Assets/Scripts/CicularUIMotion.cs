@@ -33,7 +33,7 @@ public class CicularUIMotion : MonoBehaviour {
     private AnimationCurve Curve;
     
     [SerializeField]
-    private int MoveCount;
+    private uint MoveCount;
 
     // Use this for initialization
     void Start () {
